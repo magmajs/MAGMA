@@ -1,0 +1,16 @@
+{
+  "name": "magma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "@types/ws": "^8.5.4",
+    "undici": "^5.14.0",
+    "ws": "^8.12.0"
+  },
+  "optionalDependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "libsodium-wrappers": "^0.7.10"
+  }
+}

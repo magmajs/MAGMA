@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "dist",
+        "rootDir": "./",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "removeComments": true,
+        "declaration": true,
+        "strictPropertyInitialization": false
+    },
+    "exclude": [
+        "dist",
+        "test",
+    ]
+}
