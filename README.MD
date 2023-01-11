@@ -1,3 +1,3 @@
 <p align="center">
-    <img width=60% src="https://github.com/magmajs/magmajs/blob/9a7088b155a3c520e16e5f4d3caccc7bfebd4a74/Magma.png">
+    <img width=60% src="https://github.com/magmajs/magmajs/blob/2b9fc6e4c2db721b85245014addad9e9794cd590/Magma.png">
 </p>
