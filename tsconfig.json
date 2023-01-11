@@ -10,6 +10,11 @@
         "declaration": true,
         "strictPropertyInitialization": false
     },
+    "typedocOptions": {
+        "entryPoints": ["src/index.ts"],
+        "out": "docs",
+        "entryPointStrategy": "expand"
+    },
     "exclude": [
         "dist",
         "test",
