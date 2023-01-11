@@ -1,8 +1,11 @@
 {
   "name": "magma",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "@types/node": "^18.11.18",
     "@types/ws": "^8.5.4",
@@ -12,5 +15,8 @@
   "optionalDependencies": {
     "@discordjs/voice": "^0.14.0",
     "libsodium-wrappers": "^0.7.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
   }
 }
